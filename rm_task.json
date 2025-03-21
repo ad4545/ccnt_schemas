@@ -1,0 +1,8 @@
+{
+    "id":"string",
+    "source":"string",
+    "type":"requestRm",
+    "destination":"string",
+    "rawMaterial":"string",
+    "requestedBy":"string"
+}

@@ -1,0 +1,7 @@
+{
+    "rmId":"string",
+    "materialId":"string",
+    "operatorName":"string",
+    "destination":"string",
+    "quantity":"integer"
+}

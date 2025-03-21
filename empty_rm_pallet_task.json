@@ -1,0 +1,5 @@
+{
+    "type":"pickupPallet",
+    "source":"string",
+    "requestedBy":"string"
+}
